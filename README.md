@@ -1,5 +1,10 @@
 # Statistics for Data Analysis Nanodegree Program
 
+![Udacity](https://img.shields.io/badge/Udacity-Nanodegree-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)
+![Statistics](https://img.shields.io/badge/Focus-Statistics-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 This repository contains projects completed as part of the **Udacity Statistics for Data Analysis Nanodegree Program**. These projects apply core statistical concepts including descriptive statistics, probability, hypothesis testing, A/B testing, and linear regression.
 
 ## Setup
